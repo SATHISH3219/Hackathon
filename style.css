@@ -1,0 +1,63 @@
+body{
+    background: rgb(0,0,113);
+    background: linear-gradient(0deg, rgba(0,0,113,1) 0%, rgba(78,221,255,1) 76%);}
+.Pg{
+    display: flex;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 10%;
+    width: 900px;
+    height: 400px;
+}
+.Container-signin{
+background-color: blue;
+padding-left: 55px;
+padding-top: 40px;
+background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 20px;
+font-family: 'Times New Roman', Times, serif;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+width: 30%;
+}
+.Logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.Container-signup{
+    background-color: blue;
+    width: 30%;
+    padding-left: 55px;
+    padding-top: 40px;
+    background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+    }
+input{
+    border-radius: 30px;
+    height: 20px;
+    border-style:inherit;
+    border-color: white ;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border-radius: 30px ;
+    border-style:inherit;
+    width: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(39, 9, 235);
+    border-color: white ;
+}
+.btn{
+    margin-left: 25%;
+    position: absolute;
+}
+.opacity.Container-signin{
+        
+}
